@@ -1,4 +1,4 @@
 hi
-my name is pragna
+my name is pragna kasthuri
 practicing git
 
